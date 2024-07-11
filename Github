@@ -1,0 +1,16 @@
+Github account
+khangnndevanony@gmail.com
+2582000Khang@
+
+KhangNNDevAnony
+
+
+view all git setting 
+git config --list --show-origin
+
+set up identity 
+git config --global user.name "KhangNNDevAnony"
+git config --global user.email khangnndevanony@gmail.com
+
+set default branch name 
+git config --global init.defaultBranch main

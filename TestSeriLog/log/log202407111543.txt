@@ -1,0 +1,4 @@
+2024-07-11 15:43:19.737 +07:00 [ERR] Error: Add Product Failed
+2024-07-11 15:43:19.923 +07:00 [INF] HTTP POST /api/v1/product responded 400 in 593.3232 ms
+2024-07-11 15:43:39.238 +07:00 [ERR] Error: Add Product Failed
+2024-07-11 15:43:39.238 +07:00 [INF] HTTP POST /api/v1/product responded 400 in 86.6339 ms

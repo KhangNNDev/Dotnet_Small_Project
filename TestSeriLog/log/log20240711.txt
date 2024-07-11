@@ -1,0 +1,47 @@
+2024-07-11 18:20:25.746 +07:00 [INF] Starting Web Application
+2024-07-11 18:20:25.868 +07:00 [FTL] Application termibated unexpectedly
+Microsoft.Extensions.Hosting.HostFactoryResolver+HostingListener+StopTheHostException: Exception of type 'Microsoft.Extensions.Hosting.HostFactoryResolver+HostingListener+StopTheHostException' was thrown.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in /home/khangpc/Capstone/testProject/TestSeriLog/Program.cs:line 22
+2024-07-11 18:22:17.572 +07:00 [INF] Starting Web Application
+2024-07-11 18:22:17.713 +07:00 [FTL] Application termibated unexpectedly
+Microsoft.Extensions.Hosting.HostFactoryResolver+HostingListener+StopTheHostException: Exception of type 'Microsoft.Extensions.Hosting.HostFactoryResolver+HostingListener+StopTheHostException' was thrown.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in /home/khangpc/Capstone/testProject/TestSeriLog/Program.cs:line 22
+2024-07-11 18:24:19.489 +07:00 [INF] Starting Web Application
+2024-07-11 18:24:20.198 +07:00 [INF] Entity Framework Core 6.0.0 initialized 'SerilogDBContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.0' with options: None
+2024-07-11 18:27:38.229 +07:00 [INF] Starting Web Application
+2024-07-11 18:27:38.841 +07:00 [INF] Entity Framework Core 6.0.0 initialized 'SerilogDBContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.0' with options: None
+2024-07-11 18:30:52.701 +07:00 [INF] Starting Web Application
+2024-07-11 18:30:53.334 +07:00 [INF] Entity Framework Core 6.0.0 initialized 'SerilogDBContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.0' with options: None
+2024-07-11 18:36:22.331 +07:00 [INF] Starting Web Application
+2024-07-11 18:36:22.907 +07:00 [INF] Entity Framework Core 6.0.0 initialized 'SerilogDBContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.0' with options: None
+2024-07-11 18:36:34.648 +07:00 [INF] Starting Web Application
+2024-07-11 18:36:35.225 +07:00 [INF] Entity Framework Core 6.0.0 initialized 'SerilogDBContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.0' with options: None
+2024-07-11 18:37:42.189 +07:00 [INF] Starting Web Application
+2024-07-11 18:38:41.974 +07:00 [INF] Starting Web Application
+2024-07-11 18:38:42.582 +07:00 [INF] Entity Framework Core 6.0.0 initialized 'SerilogDBContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.0' with options: None
+2024-07-11 18:45:11.870 +07:00 [INF] Starting Web Application
+2024-07-11 18:45:12.558 +07:00 [INF] Entity Framework Core 6.0.0 initialized 'SerilogDBContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.0' with options: None
+2024-07-11 18:45:31.611 +07:00 [INF] Starting Web Application
+2024-07-11 18:45:32.249 +07:00 [INF] Entity Framework Core 6.0.0 initialized 'SerilogDBContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.0' with options: None
+2024-07-11 18:45:38.337 +07:00 [INF] Starting Web Application
+2024-07-11 18:45:39.015 +07:00 [INF] Entity Framework Core 6.0.0 initialized 'SerilogDBContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.0' with options: None
+2024-07-11 18:48:56.731 +07:00 [INF] Starting Web Application
+2024-07-11 18:48:57.307 +07:00 [INF] Entity Framework Core 6.0.0 initialized 'SerilogDBContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.0' with options: None
+2024-07-11 18:49:54.497 +07:00 [INF] Starting Web Application
+2024-07-11 18:49:55.154 +07:00 [INF] Entity Framework Core 6.0.0 initialized 'SerilogDBContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.0' with options: None
+2024-07-11 18:55:25.458 +07:00 [INF] Starting Web Application
+2024-07-11 18:55:26.391 +07:00 [INF] Now listening on: https://localhost:7036
+2024-07-11 18:55:26.398 +07:00 [INF] Now listening on: http://localhost:5109
+2024-07-11 18:55:26.403 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-11 18:55:26.404 +07:00 [INF] Hosting environment: Development
+2024-07-11 18:55:26.404 +07:00 [INF] Content root path: /home/khangpc/Capstone/testProject/TestSeriLog/
+2024-07-11 22:30:51.428 +07:00 [INF] Starting Web Application
+2024-07-11 22:30:52.186 +07:00 [INF] Entity Framework Core 6.0.0 initialized 'SerilogDBContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.0' with options: None

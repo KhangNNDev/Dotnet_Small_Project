@@ -1,0 +1,6 @@
+2024-07-11 15:42:36.341 +07:00 [INF] Starting Web Application
+2024-07-11 15:42:37.384 +07:00 [INF] Now listening on: https://localhost:7036
+2024-07-11 15:42:37.389 +07:00 [INF] Now listening on: http://localhost:5109
+2024-07-11 15:42:37.393 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-11 15:42:37.394 +07:00 [INF] Hosting environment: Development
+2024-07-11 15:42:37.394 +07:00 [INF] Content root path: /home/khangpc/Capstone/testProject/TestSeriLog/

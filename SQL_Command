@@ -1,0 +1,14 @@
+connect to sqlcmd
+sqlcmd -S localhost -U sa -C
+
+select all database in sqlcmd
+select name from sys.databases
+go
+
+password : 2582000Khang@
+systemctl status mssql-server --no-pager
+
+
+sudo /opt/mssql/bin/mssql-conf set-sa-password : change password
+
+

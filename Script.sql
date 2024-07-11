@@ -1,0 +1,32 @@
+use bookManagement;
+IF NOT EXISTS (select * from sys.databases WHERE name = 'bookManagement')
+BEGIN 
+	CREATE DATABASE bookManagement
+END
+GO 
+
+IF OBJECT_ID(N'Category', N'U') IS NULL 
+CREATE TABLE Category(
+	Id INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
+	Name NVARCHAR(100)
+);
+GO
+
+IF OBJECT_ID(N'Author', N'U') IS NULL 
+CREATE TABLE Author(
+	Id INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
+	Name NVARCHAR(100)
+);
+GO
+
+IF OBJECT_ID(N'Book', N'U') IS NULL 
+CREATE TABLE Book(
+	Id INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
+	Name NVARCHAR(200),
+	Price FLOAT,
+	Year INT,
+	AuthorId INT NOT NULL FOREIGN KEY REFERENCES Author(Id),
+	CategoryId INT NOT NULL FOREIGN KEY REFERENCES Category(Id)
+);
+GO
+

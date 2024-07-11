@@ -1,0 +1,35 @@
+sudo mysql_secure_installation
+Config setting mysql
+
+Connect to mysql 
+sudo mysql
+ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'password';
+						caching_sha2_password
+Chỉnh thông tin của user để kết nối mysql
+'mysql_native_password' và 'caching_sha2_password' là 2 chế độ bảo mật password của mysql
+
+Account 
+username : root 
+pass : 123456789
+
+ALTER USER 'root'@'localhost' IDENTIFIED WITH auth_socket;
+chỉnh user root là user đăng nhập mặc định với lệnh sudo mysql 
+
+CREATE USER 'username'@'host' IDENTIFIED WITH mysql_native_password BY 'password';
+						caching_sha2_password
+Tạo user mới 
+
+GRANT PRIVILEGE ON database.table TO 'username'@'host';
+Gán quyền cho user thao tác trên bảng nhất định
+
+GRANT CREATE, ALTER, DROP, INSERT, UPDATE, INDEX, DELETE, SELECT, REFERENCES, RELOAD on *.* TO 'sammy'@'localhost' WITH GRANT OPTION;
+* là tất cả 
+GRANT ALL PRIVILEGES ON *.* TO 'sammy'@'localhost' WITH GRANT OPTION;
+
+FLUSH PRIVILEGES;
+
+SHOW GLOBAL VARIABLES LIKE 'PORT';
+check which port mysql is running
+
+
+exit : thoát mysql

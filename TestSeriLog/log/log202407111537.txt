@@ -1,0 +1,8 @@
+2024-07-11 15:37:48.571 +07:00 [INF] Now listening on: https://localhost:7036
+2024-07-11 15:37:48.613 +07:00 [INF] Now listening on: http://localhost:5109
+2024-07-11 15:37:48.618 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-11 15:37:48.618 +07:00 [INF] Hosting environment: Development
+2024-07-11 15:37:48.618 +07:00 [INF] Content root path: /home/khangpc/Capstone/testProject/TestSeriLog/
+2024-07-11 15:37:51.539 +07:00 [ERR] Error: Add Product Failed
+2024-07-11 15:37:51.541 +07:00 [ERR] Data : System.Collections.Generic.List`1[TestSeriLog.Exceptions.FormError]
+2024-07-11 15:37:51.716 +07:00 [INF] HTTP POST /api/v1/product responded 400 in 552.1715 ms

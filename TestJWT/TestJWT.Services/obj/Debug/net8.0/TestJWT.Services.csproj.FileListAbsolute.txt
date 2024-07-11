@@ -1,0 +1,15 @@
+/home/khangpc/Capstone/testProject/TestJWT/TestJWT.Services/bin/Debug/net8.0/TestJWT.Services.deps.json
+/home/khangpc/Capstone/testProject/TestJWT/TestJWT.Services/bin/Debug/net8.0/TestJWT.Services.dll
+/home/khangpc/Capstone/testProject/TestJWT/TestJWT.Services/bin/Debug/net8.0/TestJWT.Services.pdb
+/home/khangpc/Capstone/testProject/TestJWT/TestJWT.Services/bin/Debug/net8.0/TestJWT.Data.dll
+/home/khangpc/Capstone/testProject/TestJWT/TestJWT.Services/bin/Debug/net8.0/TestJWT.Data.pdb
+/home/khangpc/Capstone/testProject/TestJWT/TestJWT.Services/obj/Debug/net8.0/TestJWT.Services.csproj.AssemblyReference.cache
+/home/khangpc/Capstone/testProject/TestJWT/TestJWT.Services/obj/Debug/net8.0/TestJWT.Services.GeneratedMSBuildEditorConfig.editorconfig
+/home/khangpc/Capstone/testProject/TestJWT/TestJWT.Services/obj/Debug/net8.0/TestJWT.Services.AssemblyInfoInputs.cache
+/home/khangpc/Capstone/testProject/TestJWT/TestJWT.Services/obj/Debug/net8.0/TestJWT.Services.AssemblyInfo.cs
+/home/khangpc/Capstone/testProject/TestJWT/TestJWT.Services/obj/Debug/net8.0/TestJWT.Services.csproj.CoreCompileInputs.cache
+/home/khangpc/Capstone/testProject/TestJWT/TestJWT.Services/obj/Debug/net8.0/TestJWT..AE8754E6.Up2Date
+/home/khangpc/Capstone/testProject/TestJWT/TestJWT.Services/obj/Debug/net8.0/TestJWT.Services.dll
+/home/khangpc/Capstone/testProject/TestJWT/TestJWT.Services/obj/Debug/net8.0/refint/TestJWT.Services.dll
+/home/khangpc/Capstone/testProject/TestJWT/TestJWT.Services/obj/Debug/net8.0/TestJWT.Services.pdb
+/home/khangpc/Capstone/testProject/TestJWT/TestJWT.Services/obj/Debug/net8.0/ref/TestJWT.Services.dll

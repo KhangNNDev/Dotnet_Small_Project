@@ -1,0 +1,12 @@
+New class library
+dotnet new classlib -f net6.0 -o StringLibrary
+
+Add project to solution file 
+dotnet sln NoteManagement.sln add NoteManagement.csproj
+
+dotnet add app/app.csproj reference lib/lib.csproj
+
+Scaffold  in db first 
+dotnet ef dbcontext scaffold "Name=ConnectionStrings:SQLConnection" Microsoft.EntityFrameworkCore.SqlServer
+
+dotnet ef dbcontext scaffold "Name=ConnectionStrings:SQLConnection" --namespace testAPI.Data.Models --context-namespace testAPI.Data.Context --context-dir ../testAPI.Data/Context --output-dir ../testAPI.Data/Models Microsoft.EntityFrameworkCore.SqlServer

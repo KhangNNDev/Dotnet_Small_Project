@@ -1,0 +1,8 @@
+Check status of sql server 
+systemctl status mssql-server
+Check status of mysql 
+systemctl status mysql
+
+
+check which port mysql is running
+sudo grep ^port /etc/mysql/mysql.conf.d/mysqld.cnf 

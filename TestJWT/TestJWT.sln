@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestJWT", "TestJWT\TestJWT.csproj", "{039473A9-9F9F-40C4-B06D-33C104EBE466}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestJWT.Data", "TestJWT.Data\TestJWT.Data.csproj", "{5CC09B31-BECC-4A7B-88E8-D014B1284918}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestJWT.Services", "TestJWT.Services\TestJWT.Services.csproj", "{9780CF8B-2CCE-4393-87F1-8E515C0B89C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{039473A9-9F9F-40C4-B06D-33C104EBE466}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{039473A9-9F9F-40C4-B06D-33C104EBE466}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{039473A9-9F9F-40C4-B06D-33C104EBE466}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{039473A9-9F9F-40C4-B06D-33C104EBE466}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CC09B31-BECC-4A7B-88E8-D014B1284918}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CC09B31-BECC-4A7B-88E8-D014B1284918}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CC09B31-BECC-4A7B-88E8-D014B1284918}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CC09B31-BECC-4A7B-88E8-D014B1284918}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9780CF8B-2CCE-4393-87F1-8E515C0B89C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9780CF8B-2CCE-4393-87F1-8E515C0B89C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9780CF8B-2CCE-4393-87F1-8E515C0B89C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9780CF8B-2CCE-4393-87F1-8E515C0B89C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

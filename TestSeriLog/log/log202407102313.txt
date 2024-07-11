@@ -1,0 +1,8 @@
+2024-07-10 23:13:41.008 +07:00 [INF] Starting Web Application
+2024-07-10 23:13:42.635 +07:00 [INF] Now listening on: https://localhost:7036
+2024-07-10 23:13:42.641 +07:00 [INF] Now listening on: http://localhost:5109
+2024-07-10 23:13:42.649 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-10 23:13:42.650 +07:00 [INF] Hosting environment: Development
+2024-07-10 23:13:42.650 +07:00 [INF] Content root path: /home/khangpc/Capstone/testProject/TestSeriLog/
+2024-07-10 23:13:43.910 +07:00 [ERR] Error: Add Product Failed
+2024-07-10 23:13:47.049 +07:00 [INF] HTTP POST /api/v1/product responded 400 in 3590.2914 ms
